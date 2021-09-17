@@ -8,7 +8,7 @@ This is a responsive Portfolio with glass navbar on web, dark on mobile and anim
 ### Sample Screenshot :
 <p align="center">
   <img  src="assets/img/Screenshot.png">
-```html
+<p align="center">
 <iframe src="https://paudeldhirendra.github.io/Animate" title="Animate" width=”750” height=”500”></iframe>
-```
+  
 #### **Live [DEMO](https://paudeldhirendra.github.io/Animate/)**.
